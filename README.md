@@ -15,8 +15,8 @@ We are not responsible for what you do with this utility.<br>
 • <code>pkg install php</code><br>
 • <code>git clone https://github.com/sanjidtk/hyperloop</code><br>
 • <code>cd hyperloop</code><br>
-• <code>unzip hyperLoop.zip</code><br>
-• <code>rm -f hyperLoop.zip</code><br>
+• <code>unzip hyperoloop.zip</code><br>
+• <code>rm -f hyperloop.zip</code><br>
 • <code>clear</code><br>
 # Key
 <b>The key is any English character<br>
